@@ -24,11 +24,11 @@ function App() {
             <Route path='/' element={<Home />} />
             <Route path='/carousel' element={<ImageCarousel />} />
             <Route path='/coconut' element={<Coconut />} />
-            <Route path='/Fertilizer' element={<Fertilizer />} />
-            <Route path='/GreenSaplings' element={<GreenSaplings />} />
-            <Route path='/FlowerSapling' element={<FlowerSapling />} />
-            <Route path='/FruitSapling' element={<FruitSapling />} />
-            <Route path='/Contact' element={<Contact />} />
+            <Route path='/fertilizer' element={<Fertilizer />} />
+            <Route path='/green_saplings' element={<GreenSaplings />} />
+            <Route path='/flower_sapling' element={<FlowerSapling />} />
+            <Route path='/fruit_sapling' element={<FruitSapling />} />
+            <Route path='/contact' element={<Contact />} />
           </Routes>
         </main>
         <Footer />

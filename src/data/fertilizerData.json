@@ -2,65 +2,65 @@
     {
       "id": 1,
       "name": "Sea Weeds",
-      "weight": 80,
+      "weight": 10,
       "price": 60,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/seaweeds.png"
     },
     {
       "id": 2,
       "name": "NPK",
-      "weight": 80,
+      "weight": 50,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/npk.png"
     },
     {
       "id": 3,
       "name": "Boron",
-      "weight": 80,
+      "weight": 50,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/Boron.png"
     },
     {
       "id": 4,
       "name": "MIXED FERTILIZER",
       "weight": 80,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/MIXED_FERTILIZER.png"
     },
     {
       "id": 5,
       "name": "AMINO ACID",
       "weight": 80,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/AMINO_ACID.png"
     },
     {
       "id": 6,
       "name": "HUMIC ACID",
       "weight": 80,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/HUMIC_ACID.png"
     },
     {
       "id": 7,
       "name": "VERMICOMPOST",
       "weight": 80,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/VERMICOMPOST.png"
     },
     {
       "id": 8,
       "name": "NEEM CAKE",
       "weight": 80,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/NEEM_CAKE.png"
     },
     {
       "id": 9,
       "name": "PANJAKAVIYA",
       "weight": 80,
       "price": 1400,
-      "image": "/img/seaweeds.png"
+      "image": "/img/fertilizer/PANJAKAVIYA.png"
     }
   ]
   

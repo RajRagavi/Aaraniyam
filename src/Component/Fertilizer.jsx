@@ -56,7 +56,8 @@ const Fertilizer = () => {
               <span className="absolute top-2 right-2 bg-white text-black text-xl font-bold px-2 py-1 rounded">
     {product.weight} KG
   </span>
-                <img src={product.image} alt={product.name} className="w-52 h-42 mx-auto" />
+  <img src={product.image} alt={product.name} className="w-52 h-52 object-cover mx-auto" />
+
               </div>
               {/* <p className="text-sm font-bold text-gray-800 mt-2">{product.weight} KG</p> */}
               <p className="text-green-500 font-bold mt-3 uppercase">BIO FERTILIZER</p>

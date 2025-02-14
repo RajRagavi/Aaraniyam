@@ -22,10 +22,10 @@ const Navbar = () => {
   // Array containing product options
   const productOptions = [
     { id: 1, text: 'Coconut', link: '/coconut' },
-    { id: 2, text: 'Green Saplings', link: '/GreenSaplings' },
-    { id: 3, text: 'Flower Saplings', link: '/FlowerSapling' },
-    { id: 4, text: 'Fruit Saplings', link: '/FruitSapling' },
-    { id: 5, text: 'Fertilizer', link: '/Fertilizer' },
+    { id: 2, text: 'Green Saplings', link: '/green-saplings' },
+    { id: 3, text: 'Flower Saplings', link: '/flower-sapling' },
+    { id: 4, text: 'Fruit Saplings', link: '/fruit-sapling' },
+    { id: 5, text: 'Fertilizer', link: '/fertilizer' },
   ];
 
   return (
