@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "name": "AAYIRAMKAICHI (12&#215;12){Tall Variety}",
+      "weight": 80,
+      "price": 60,
+      "image": "/img/coconut/AAYIRAMKAICHI.png"
+    },
+    {
+      "id": 2,
+      "name": "ANDHRA (12&#215;12){TALL x DWARF}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/ANDHRA.png"
+    },
+    {
+      "id": 3,
+      "name": "ANDHRA TALL (Without Packet){Tall Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/ANDHRA_TALL.png"
+    },
+    {
+      "id": 4,
+      "name": "ARASAMPATTI TALL (Without Packet){Tall Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/ARASAMPATTI_TALL.png"
+    },
+    {
+      "id": 5,
+      "name": "AZHIYAR (12X12){TALL x DWARF}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/AZHIYAR.png"
+    },
+    {
+      "id": 6,
+      "name": "COD (12X12){Dwarf Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/cod.png"
+    },
+    {
+      "id": 7,
+      "name": "DIPTUR TALL(12&#215;12){Tall Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 8,
+      "name": "ETHAMOZHI (Without Packet) {Tall Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/ETHAMOZHI.png"
+    },
+    {
+      "id": 9,
+      "name": "GANGAPANDAM (12&#215;12) {Dwarf Variety}",
+      "weight": 80,
+      "price": 300,
+      "image": "/img/coconut/ETHAMOZHI.png"
+    },
+    
+    {
+      "id": 10,
+      "name": "MANDIYA TALL (12&#215;12){Tall Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/ETHAMOZHI.png"
+    },
+    {
+      "id": 11,
+      "name": "MANDYA (12&#215;12){TALLxDWARF}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 12,
+      "name": "MANORA (Without Packet){Tall Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 13,
+      "name": "MYD (12×12) {Dwarf Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 14,
+      "name": "SAMPOORNA (12X12){TALL x DWARF}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 15,
+      "name": "SANNANGI (12×12){Dwarf Variety}",
+      "weight": 80,
+      "price": 350,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 16,
+      "name": "SIRANJEEVI-1 (12X13){DWARF x DWARF}",
+      "weight": 80,
+      "price": 350,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 17,
+      "name": "SIRANJEEVI-2 (12X12){DWARF x TALL}",
+      "weight": 80,
+      "price": 350,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 18,
+      "name": "SORNAVARI (12X12) {TALL x DWARF}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    },
+    {
+      "id": 19,
+      "name": "VIRUKSHA (12×12){Dwarf Variety}",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/coconut/DIPTURTALL.png"
+    }
+  ]
+  

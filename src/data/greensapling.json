@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Albizia Lebbeck (வாகை மரம் )",
+      "weight": 80,
+      "price": 60,
+      "image": "/img/tree/Albizia_Lebbeck.png"
+    },
+    {
+      "id": 2,
+      "name": "Chinaberry (மலைவேம்பு )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Chinaberry.png"
+    },
+    {
+      "id": 3,
+      "name": "Delonix Regia (குல்முகர்)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Delonix_Regia.png"
+    },
+    {
+      "id": 4,
+      "name": "Indian Bael (வில்வம் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Indian_Bael.png"
+    },
+    {
+      "id": 5,
+      "name": "Indian Kino (வேங்கை )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Indian_Kino.png"
+    },
+    {
+      "id": 6,
+      "name": "Indian Laburnum (சரக்கொன்றை)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Indian_Laburnum.png"
+    },
+    {
+      "id": 7,
+      "name": "Maulsari (மகிழம் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Maulsari.png"
+    },
+    {
+      "id": 8,
+      "name": "Paradise Tree (சொர்க்கம்)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Maulsari.png"
+    },
+    {
+      "id": 9,
+      "name": "Red Sandal Wood (செம்மரம் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Sandal_Wood.png"
+    },
+    {
+      "id": 10,
+      "name": "Rosewood (ரோஸ்வுட் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Rosewood.png"
+    },
+    {
+      "id": 11,
+      "name": "Sandal Wood (சந்தனம் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Sandal_Wood.png"
+    },
+    {
+      "id": 11,
+      "name": "Shami Tree (வன்னி )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/tree/Rosewood.png"
+    }
+  ]
+  

@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Alphonso(அல்போன்சா)",
+      "weight": 80,
+      "price": 60,
+      "image": "/img/fruit/mango.png"
+    },
+    {
+      "id": 2,
+      "name": "Banganapalle(பங்கனப்பள்ளி )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/Banganapalle.png"
+    },
+    {
+      "id": 3,
+      "name": "Chikoo-cricket Ball (சப்போட்டா-CRICKET BALL)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/Chikoo_cricket_Ball.png"
+    },
+    {
+      "id": 4,
+      "name": "Chikoo-kalipatti (சப்போட்டா- காலப்பாடி)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/Chikoo_kalipatti.png"
+    },
+    {
+      "id": 5,
+      "name": "Guava-taivan Pink(தைவான்பிங்க் கொய்யா )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/GUAVA_TAIVAN_PINK.png"
+    },
+    {
+      "id": 6,
+      "name": "Gumless Jackfruit(கம்லெஸ் பலா )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/GUMLESS_JACKFRUIT.png"
+    },
+    {
+      "id": 7,
+      "name": "Imampasand(இமாம்பசந்த் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/IMAMPASAND.png"
+    },
+    {
+      "id": 8,
+      "name": "Indian Blackberry(நாவல் பழம்)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/Indian_Blackberry.png"
+    },
+    {
+      "id": 9,
+      "name": "Lemon -balaji(பாலாஜி எலுமிச்சை)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/lemon.png"
+    },
+    {
+      "id": 10,
+      "name": "Orange (ஆரஞ்சு )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/orange.png"
+    },
+    {
+      "id": 11,
+      "name": "Pomegranate(மாதுளை)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/pomegranate.png"
+    },
+    {
+      "id": 12,
+      "name": "Ramachandra Jackfruit(ராமச்சந்திரா பலா )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/fruit/jackfruit.png"
+    }
+  ]
+  

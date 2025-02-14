@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Allamanda Purple (அலமெண்டா )",
+      "weight": 80,
+      "price": 60,
+      "image": "/img/flower/AllamandaPurple.png"
+    },
+    {
+      "id": 2,
+      "name": "Crape Jasmine Circle (நந்தியாவட்டை)",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Crape_Jasmine.png"
+    },
+    {
+      "id": 3,
+      "name": "Crossandra (கனகாம்பரம் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Crossandra.png"
+    },
+    {
+      "id": 4,
+      "name": "Gardenia (பாரிஜாதம் )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Gardenia.png"
+    },
+    {
+      "id": 5,
+      "name": "Hibiscus All Color (செம்பருத்தி )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Hibiscus.png"
+    },
+    {
+      "id": 6,
+      "name": "Ixora All Color (வெட்சி பூ )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Ixora.png"
+    },
+    {
+      "id": 7,
+      "name": "Jasmine(kodai Malli) (குண்டு மல்லி )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Jasmine.png"
+    },
+    {
+      "id": 8,
+      "name": "Jasminum Fluminense Plant (சந்தன முல்லை )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/Jasminum.png"
+    },
+    {
+      "id": 9,
+      "name": "Rose (ரோஜா )",
+      "weight": 80,
+      "price": 1400,
+      "image": "/img/flower/rose.png"
+    }
+  ]
+  
