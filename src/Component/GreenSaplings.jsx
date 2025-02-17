@@ -19,7 +19,7 @@ const GreenSaplings = () => {
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-3 sm:mb-4 ">The Importance of Tree Sapling <br />Plantation</h2>
 
           <div className='flex items-center gap-7 mt-6'>
-            <div className='rounded-full bg-brandGreen h-12 w-12 flex justify-center items-center'>
+            <div className='rounded-full bg-brandGreen min-w-[40px] min-h-[40px]  h-12 w-12 flex justify-center items-center'>
               <img src="/img/icon/Growth.png" alt="Growth Icon" className='w-6 md:w-8' />
             </div>
             <div>
@@ -28,7 +28,7 @@ const GreenSaplings = () => {
             </div>
           </div>
           <div className='flex items-center gap-7 mt-6'>
-            <div className='rounded-full bg-brandGreen h-12 w-12 flex justify-center items-center'>
+            <div className='rounded-full bg-brandGreen  min-w-[40px] min-h-[40px] h-12 w-12 flex justify-center items-center'>
               
               <img src="/img/icon/coconutTree.png" alt="Growth Icon" className='w-6 md:w-8' />
             </div>

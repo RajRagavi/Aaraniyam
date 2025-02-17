@@ -1,5 +1,5 @@
 import React from "react";
-import fertilizerData from "../data/fertilizerData.json"; 
+import fertilizerData from "../data/fertilizerData.json";
 
 const Fertilizer = () => {
   return (
@@ -19,8 +19,8 @@ const Fertilizer = () => {
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-3 sm:mb-4 ">Importance of the<br />Bio Fertilizers</h2>
 
           <div className='flex items-center gap-7 mt-6'>
-            <div className='rounded-full bg-brandGreen h-12 w-12 flex justify-center items-center'>
-              <img src="/img/icon/Growth.png" alt="Growth Icon" className='w-6 md:w-8' />
+            <div className='rounded-full bg-brandGreen sm:min-w-[30px] min-w-[40px] min-h-[40px] h-12 w-12 flex justify-center items-center'>
+              <img src="/img/icon/Growth.png" alt="Growth Icon" className='w-10' />
             </div>
             <div>
               <h2 className=' font-inter md:text-3xl text-xl font-bold'>Enhance Growth</h2>
@@ -29,18 +29,19 @@ const Fertilizer = () => {
                 leading to healthier and more productive plants.</p>
             </div>
           </div>
-          <div className='flex items-center gap-7 mt-6'>
-            <div className='rounded-full bg-brandGreen h-12 w-12 flex justify-center items-center'>
-              <img src="/img/icon/coconutTree.png" alt="Growth Icon" className='w-6 md:w-8' />
+          <div className='flex items-center gap-7 mt-6 '>
+            <div className="rounded-full bg-brandGreen sm:min-w-[30px] min-w-[40px] min-h-[40px] h-8 w-8 flex justify-center items-center ">
+              <img src="/img/icon/coconutTree.png" alt="Growth Icon" className="w-10 " />
             </div>
+
             <div>
               <h2 className=' font-inter md:text-3xl text-xl font-bold'>Improve soil</h2>
-              <p className='text-white md:w-[400px] text-justify'> 
-              These microbes enhance soil structure, increase water retention, and promote organic matter decomposition. This creates a fertile and sustainable environment for plant growth, improving overall soil health.</p>
+              <p className='text-white md:w-[400px] text-justify'>
+                These microbes enhance soil structure, increase water retention, and promote organic matter decomposition. This creates a fertile and sustainable environment for plant growth, improving overall soil health.</p>
             </div>
           </div>
 
-          
+
         </div>
       </div>
 
@@ -53,10 +54,10 @@ const Fertilizer = () => {
               className="bg-gray-300 shadow-lg rounded-lg p-6 text-center transform hover:scale-105 transition duration-300 border border-gray-300"
             >
               <div className="bg-gray-100 p-4 rounded-md">
-              <span className="absolute top-2 right-2 bg-white text-black text-xl font-bold px-2 py-1 rounded">
-    {product.weight} KG
-  </span>
-  <img src={product.image} alt={product.name} className="w-52 h-52 object-cover mx-auto" />
+                <span className="absolute top-2 right-2 bg-white text-black text-xl font-bold px-2 py-1 rounded">
+                  {product.weight} KG
+                </span>
+                <img src={product.image} alt={product.name} className="w-52 h-52 object-cover mx-auto" />
 
               </div>
               {/* <p className="text-sm font-bold text-gray-800 mt-2">{product.weight} KG</p> */}

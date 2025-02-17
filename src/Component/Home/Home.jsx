@@ -18,7 +18,7 @@ const Home = () => {
     <div>
         {/* <Navbar/> */}
         <section>
-            <div className='relative  bg-cover bg-center h-screen' style={{backgroundImage:`url(/Aaraniyam.jpg)`}}>
+            <div className='relative min-h-screen flex flex-col items-center justify-center px-4 sm:px-10 text-white text-center sm:text-left ' style={{backgroundImage:`url(/Aaraniyam.jpg)`}}>
                 {/* //Overlay for backgroundImage */}
                 <div className="absolute inset-0 bg-black opacity-50"></div>
                 <div className='relative  flex flex-col items-start justify-center h-full p-6 sm:p-10 text-White'>
@@ -58,7 +58,7 @@ const Home = () => {
                             data-aos="fade-right"
                             src="/img/IMG-20240809-WA0018.jpg"
                             alt="Coconut Farm"
-                            className="rounded-lg shadow-lg relative z-10 w-full h-auto md:block hidden"
+                            className="rounded-lg shadow-lg relative z-10 w-full h-auto block"
                         />
 
                         <div 
